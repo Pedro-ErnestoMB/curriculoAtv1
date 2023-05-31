@@ -1,0 +1,13 @@
+h1 {
+  border: 30px solid transparent;
+  font-size: 40px;
+  background-color: rgb(150, 215, 255);
+  border-image: url("./132d0b11f96dcffaa700966900312a52.jpg") 150 round;
+  border-radius: 15px;
+  margin-left: 0;
+}
+
+h2 {
+  color: rgb(11, 11, 109);
+  font-size: 25px;
+}
